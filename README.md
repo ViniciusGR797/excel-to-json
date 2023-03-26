@@ -52,7 +52,7 @@ If you don't want to use a virtual environment and use your own machine's enviro
 
 * Remembering that you need to have downloaded Python, if you haven't.
 
-* Repeat the previous steps, the difference is that you don't need to activate or deactivate the virtual environment, just download the dependencies after cloning the repository.
+* Repeat the previous steps, the difference is that you don't need to activate or deactivate the virtual environment, just download the dependencies through the terminal after cloning the repository.
 ```
 pip install -r requirements.txt
 ```
