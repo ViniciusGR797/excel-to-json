@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1089358473483006105/1089358536728924230/excel-to-json.png" alt="logo HappyFit">
+  <img src="https://cdn.discordapp.com/attachments/1089358473483006105/1089358536728924230/excel-to-json.png?ex=661b2fb2&is=6608bab2&hm=431684c92e3cd6347456416e8efad1cdabbed105030b6f8a40797ade0579ffe0&" alt="logo HappyFit">
 </div>
   
 > This Python software is capable of converting Excel files into JSON objects. Using the Pandas library, data is read from an Excel file and then converted into a dictionary which is, in turn, transformed into a JSON object. This process is useful for integrating Excel spreadsheet data into web applications and other software solutions.
